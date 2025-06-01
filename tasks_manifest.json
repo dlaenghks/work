@@ -1,0 +1,42 @@
+{
+  "_1": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_1.pyd",
+    "sha256": "dea5665dcc0b1abb528d88ed4fa86c19e7ae6f3767aa517a2501dee7c5938014"
+  },
+  "_2": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_2.pyd",
+    "sha256": "a00169b4d1b7133f5cba9fc2cc2ce799ee7fbe49ab0056d00a1fb92f859db8cf"
+  },
+  "_3": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_3.pyd",
+    "sha256": "e9d5fceb2a90d974754ee32b8118642922255bfc5aaac5607023ef5707dce4e1"
+  },
+  "_4": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_4.pyd",
+    "sha256": "2549f12216cf5b17cb3dc62319152fef026fdcc326d591ca748ab0f0b9178243"
+  },
+  "_5": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_5.pyd",
+    "sha256": "1ca5c1225aa6d21de61e7b57434c3570616f6de8718489970f64cd0ea01a293a"
+  },
+  "_6": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_6.pyd",
+    "sha256": "5c72cbecff384483922695a612ce46e08f7265f6c5ff11df1ceaa39d648f665a"
+  },
+  "_7": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_7.pyd",
+    "sha256": "d8c0fdfc1d5fa8500d7ba199c337fea9aae2871f38cd241021daf3d54f7f70f0"
+  },
+  "_8": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/dlaenghks/work/main/_8.pyd",
+    "sha256": "0b39f6f0e363b5b4abc0369be586579544034959d5f48b2c09c93fc34b6d23b2"
+  }
+}
