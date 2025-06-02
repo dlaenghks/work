@@ -1,2 +1,2 @@
-v1
-https://raw.githubusercontent.com/dlaenghks/work/main/update.exe
+v2
+https://raw.githubusercontent.com/dlaenghks/work/main/N 자동화 프로그램.exe
