@@ -1,2 +1,2 @@
-v1.0.6
+v1.0.7
 https://github.com/dlaenghks/work/releases/download/work/N.exe
